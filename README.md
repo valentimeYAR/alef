@@ -1,2 +1,2 @@
 # Test alef. VUE+VUEX
-`yarn dev`
+`yarn` + `yarn dev`
